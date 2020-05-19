@@ -1,0 +1,17 @@
+h1,h2,h3{
+    border: solid;
+    color: #b2aed3;
+    background-color: #3e3f5c;
+}
+
+body{
+    background-color: #292c32;
+}
+.no{
+    text-align: center;
+}
+
+.no a{
+    color: #b2aed3;
+}
+
